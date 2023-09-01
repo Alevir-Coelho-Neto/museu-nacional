@@ -154,6 +154,10 @@ input.botao{
     cursor: pointer;
 }
 
+input.botao:hover{
+    background:  #a6a093;
+}
+
 fieldset{
     border: none;
 }
